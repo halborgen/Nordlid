@@ -4,8 +4,15 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
 
  */
-input:focus, textarea {
-    outline: none !important;
+
+.d-block{
+	min-height: 300px !important;
+}
+
+.form-control{
+	border:none;
+	border-bottom: thin solid;
+	width: 100%;
 }
 
 .centered {
@@ -17,6 +24,16 @@ input:focus, textarea {
 }
 
 .kasse{
+	
+    display: inline-block;
+	width: 20px;
+	height: 20px;
+	
+	text-align: left;
+	vertical-align: top;
+	background: none !important;
+	box-shadow: 0 1px 2px rgba(0,0,0,.1);
+  
 	
 }
 .fa {
