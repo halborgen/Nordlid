@@ -1,0 +1,106 @@
+/*!
+ * Start Bootstrap - Landing Page v5.0.0 (https://startbootstrap.com/template-overviews/landing-page)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
+
+ */
+input:focus, textarea {
+    outline: none !important;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	color: aliceblue;
+}
+
+.kasse{
+	
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+.navn{
+	border: none !important;
+}
+.btn{
+	background-color: #e6007e !important;
+	color: aliceblue !important;
+	border: none !important;
+	border-radius: 1px !important;
+	padding-bottom: 3% !important;
+	padding-left: 20% !important;
+	padding-right: 20% !important;
+	padding-top: 3% !important;
+
+} 
+
+
+.btn-primary{
+	
+}
+.content-section{
+	background-color: white !important;
+	color: #304a5f !important;
+	
+}
+
+.footer{
+	background-color: #313131 !important;
+	color: white;
+	
+}
+
+.mb-3{
+	text-shadow: none !important;
+box-shadow: none !important;
+	
+}
+.testimonials{
+	background-color: #2a697b !important;
+	color: aliceblue;
+	
+}
+body
+{
+    padding: 0;
+    margin: 0;
+}
+.corps
+{
+    background-color: white;
+	color: #304a5f;
+}
+.contenu
+{
+    margin-top: 5em;
+    margin-bottom: 1em;
+    background-color: white;
+    padding: 1.2em;
+    padding-left: 1.em;
+}
+.center
+{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gauche
+{
+	color: #304a5f;
+    background-color: white;
+    
+}
+
+
+
+body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif}h1,h2,h3,h4,h5,h6{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700}header.masthead{position:relative;background-color:#343a40;background:url(../img/bg-masthead.jpg) no-repeat center center;background-size:cover;padding-top:8rem;padding-bottom:8rem}header.masthead .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}header.masthead h1{font-size:2rem}@media (min-width:768px){header.masthead{padding-top:12rem;padding-bottom:12rem}header.masthead h1{font-size:3rem}}.showcase .showcase-text{padding:3rem}.showcase .showcase-img{min-height:30rem;background-size:cover}@media (min-width:768px){.showcase .showcase-text{padding:7rem}}.features-icons{padding-top:7rem;padding-bottom:7rem}.features-icons .features-icons-item{max-width:20rem}.features-icons .features-icons-item .features-icons-icon{height:7rem}.features-icons .features-icons-item .features-icons-icon i{font-size:4.5rem}.features-icons .features-icons-item:hover .features-icons-icon i{font-size:5rem}.testimonials{padding-top:7rem;padding-bottom:7rem}.testimonials .testimonial-item{max-width:18rem}.testimonials .testimonial-item img{max-width:12rem;-webkit-box-shadow:0 5px 5px 0 #adb5bd;box-shadow:0 5px 5px 0 #adb5bd}.call-to-action{position:relative;background-color:#343a40;background:url(../img/bg-masthead.jpg) no-repeat center center;background-size:cover;padding-top:7rem;padding-bottom:7rem}.call-to-action .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}footer.footer{padding-top:4rem;padding-bottom:4rem}
